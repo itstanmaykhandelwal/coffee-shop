@@ -99,7 +99,7 @@ const Footer = () => (
           color: "rgba(245,234,216,0.25)",
         }}
       >
-        <span>© 2024 Roast&Co. All rights reserved.</span>
+        <span>© 2026 Roast&Co. All rights reserved.</span>
         <span>📍 Coffee Street · ✉ hello@coffee.com</span>
       </div>
     </div>
